@@ -1,0 +1,13 @@
+aiologger==0.6.1
+Flask==2.1.2
+httplib2==0.20.4
+jenkins==1.0.2
+jira==3.2.0
+pydash==5.1.0
+python_jenkins==1.7.0
+PyYAML==6.0
+redis==4.3.3
+python-redis-lock==3.7.0
+requests==2.25.1
+rq==1.10.1
+reactivex==4.0.4
